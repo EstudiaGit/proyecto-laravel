@@ -44,7 +44,7 @@ Incluye:
 ## Estructura del Proyecto
 
 ```
-[01]Docker_Proyecto/
+proyecto-laravel/
 │
 ├── docker-compose.yml
 ├── Dockerfile
